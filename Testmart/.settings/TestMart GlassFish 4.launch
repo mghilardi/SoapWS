@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.glassfish.jst.server.GlassfishServerLaunchConfigurationType">
+<stringAttribute key="bad_container_name" value="\Testmart\.settings\runconfig.txt"/>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+<stringAttribute key="server-id" value="GlassFish 4 at localhost [domain1]"/>
+</launchConfiguration>
